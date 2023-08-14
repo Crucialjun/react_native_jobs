@@ -1,4 +1,4 @@
-import {stack} from 'expo-router'
+import {Stack} from 'expo-router/stack'
 
 const Layout = () => {
     return <Stack/>
