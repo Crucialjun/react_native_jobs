@@ -49,7 +49,7 @@ const styles = StyleSheet.create({
   },
   searchBtnImage: {
     width: "50%",
-    height: "50%",
+    height: 50,
     tintColor: COLORS.white,
   },
   tabsContainer: {
